@@ -1,9 +1,9 @@
-## Hi there, I'm Riff!👋
+## Hi there, I'm Riff!
 
 
 ### 👨🏻‍💻 Facts about Me
 
-<p><img alt="Coder GIF" height=200 width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right" style="max-width:100%;"/></p>
+<p><img alt="Coder GIF" height=230 width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right" style="max-width:100%;"/></p>
 
 - 🎓 Software Engineering graduate from Universiti Malaya (🇲🇾)
 - 💼 Software Engineer Intern at MIMOS Berhad based in Bukit Jalil
