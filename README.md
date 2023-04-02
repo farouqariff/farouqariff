@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 Facts about Me
 
-<p><img alt="Coder GIF" height=230 width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right" style="max-width:100%;"/></p>
+<p><img alt="Coder GIF" height=225 width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right" style="max-width:100%;"/></p>
 
 - 🎓 Software Engineering graduate from Universiti Malaya (🇲🇾)
 - 💼 Software Engineer Intern at MIMOS Berhad based in Bukit Jalil
