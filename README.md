@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 Facts about Me
 
-<p><img alt="Coder GIF" height=225 width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right" style="max-width:100%;"/></p>
+<p><img alt="Coder GIF" height=225 width=auto src="https://rr4---sn-npoldne7.googlevideo.com/videoplayback?expire=1680936158&ei=frgwZMGbCp3B1gLIpKL4CQ&ip=216.131.109.144&id=o-AEFth-he_alfgV7wBG7OAhluFFxWgKXgApDxzYFTp0sg&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C271%2C278%2C313&source=youtube&requiressl=yes&spc=99c5CVKbcOz8F3SSV1WfsXCrYERE0w-nONNwZpuChg&vprv=1&mime=video%2Fmp4&ns=S0uh67U4vnLEkBr_HqBMIfMM&gir=yes&clen=18648487&dur=71.666&lmt=1680674772329027&keepalive=yes&fexp=24007246&c=WEB&txp=5319224&n=IZp2Et6pdGzMgg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAKutsQe2IcitIeBJpDRMKzPgjSRIZs6KPm_ofU69M8edAiEA5_uovGw8sszcFlqGRKtCQDukqIXmE0xsCKMPzAMHDRQ%3D&rm=sn-n02xgoxufvg3-2gbz7r&req_id=da0aad0e044fa3ee&cmsv=e&redirect_counter=2&cm2rm=sn-2gbe67s&cms_redirect=yes&mh=NW&mip=219.92.248.234&mm=34&mn=sn-npoldne7&ms=ltu&mt=1680914203&mv=m&mvi=4&pl=22&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAJYpa7BPqRvL5HJRcjeEYTablW6e_No1k6Ql8tOwwW54AiBgVPXw37IDemZPkjRM3srUQmlz8VeqslnwQEGWOmm49Q%3D%3D" align="right" style="max-width:100%;"/></p>
 
 - 🎓 Software Engineering graduate from Universiti Malaya (🇲🇾)
 - 💼 Software Engineer Intern at MIMOS Berhad based in Bukit Jalil
