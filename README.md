@@ -8,7 +8,7 @@
 - 🎓 Software Engineering graduate from Universiti Malaya (🇲🇾)
 - 💼 Software Engineer Intern at MIMOS Berhad based in Bukit Jalil
 - 💡 Like to explore new technologies and develop software solutions
-- ✍️ In my free time, I pursue Data Analysis as a hobby
+- ✍️ In my free time, I pursue Cloud as a hobby
 - 💻 Completed Final Year Project (FYP) titled 'Refugee Orphanage and Donation Management System'
 - 🏅 Top 10 Finalist at the Grand Finals for CIMB 3D Conquest (CODING) 2018
 - ⚡ Fun fact: I'm a BLIИK🖤💗
