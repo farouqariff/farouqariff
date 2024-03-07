@@ -11,7 +11,7 @@
 - ✍️ In my free time, I pursue Cloud as a hobby
 - 💻 Completed Final Year Project (FYP) titled 'Refugee Orphanage and Donation Management System'
 - 🏅 Top 10 Finalist at the Grand Finals for CIMB 3D Conquest (CODING) 2018
-- ⚡ Fun fact: I'm a BLIИK🖤💗
+- ⚡ Fun fact: I like K-Pop
 
 ### 🛠 Tech Stack
 
